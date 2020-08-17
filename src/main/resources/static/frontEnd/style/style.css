@@ -1,0 +1,128 @@
+body {
+    margin: 10px;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+  
+  background-image: url("black_texture.jpg");
+  
+}
+
+
+h1{
+    text-align:center;
+    color: yellow;
+    font-size: 60px;
+    padding: 30px;
+}
+
+h2{
+    color: rgba(209, 148, 15, 0.836);
+}
+
+h3{
+    color: rgba(255, 255, 255, 0.384);
+
+}
+
+span{
+    color: powderblue;
+}
+
+button {
+    cursor: pointer;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   border-radius: 30px;
+
+}
+a :hover {
+    color: rgb(222, 238, 5);
+    background-color: rgba(37, 34, 34, 0.658);
+}
+
+
+.dx{
+    position: relative;
+    left: 70px;
+}
+
+#date , #time{
+    color: rgba(255, 255, 255, 0.637);
+}
+
+#table {
+
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: powderblue;
+}
+th ,p{
+    color: powderblue;
+}
+
+#tbody{
+    color: rgba(255, 255, 255, 0.637);
+}
+td{
+    border-left: solid 1px  rgba(255, 255, 255, 0.637) ;
+    border-bottom: solid 1px  rgba(255, 255, 255, 0.637) ;
+}
+#tbody td.activeCorse:hover{
+    cursor: pointer;
+    color:  rgba(209, 148, 15, 0.836);
+}
+
+
+img{
+    max-width:20%;
+    height:auto;
+    border-radius: 60px;
+    float: inline-start;
+
+}
+
+#footer{
+  margin-left: 35%;
+ 
+}
+
+#info{
+    color:  rgba(209, 148, 15, 0.836);
+    display: flex;
+    padding-left: 30px;
+}
+
+.dom {
+    border-right: solid 1px;
+    
+}
+
+
+
+.white{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
