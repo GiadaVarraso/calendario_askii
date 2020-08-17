@@ -28,5 +28,5 @@ public class SignUpController {
 		return "OK";
 	}
 	
-	//commento a caso per github
+	//commento a caso per github di lovvina
 }
