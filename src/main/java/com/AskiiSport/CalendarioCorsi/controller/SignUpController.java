@@ -28,5 +28,5 @@ public class SignUpController {
 		return "OK";
 	}
 	
-	//commento a caso per GitHub 
+	//commento a caso per GitHub
 }
