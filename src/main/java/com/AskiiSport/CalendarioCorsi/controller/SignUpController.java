@@ -27,4 +27,6 @@ public class SignUpController {
 		authService.signup(nome,cognome,email,username, password);
 		return "OK";
 	}
+	
+	//commento a caso per github
 }
